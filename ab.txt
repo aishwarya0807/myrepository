@@ -1,3 +1,4 @@
 hi
 hello
 welcome thankyou
+c is an effective language
